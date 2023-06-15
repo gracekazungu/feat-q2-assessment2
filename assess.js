@@ -163,5 +163,5 @@ this.specie=specie;
     }
 }
 }
-let prey=new Prey("plants","roaming","preylocation","lion")
+let prey=new Prey("plants","roaming","preylocation","south","lion")
 console.log(prey.trackspecies())
